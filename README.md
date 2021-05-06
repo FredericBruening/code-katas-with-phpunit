@@ -1,1 +1,6 @@
-# code-katas-with-phpunit
+# Code Katas with PHPUnit
+
+
+### Katas
+
+- Prime numbers kata
