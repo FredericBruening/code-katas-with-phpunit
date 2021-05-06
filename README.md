@@ -4,3 +4,4 @@
 ### Katas
 
 - Prime numbers kata
+- Roman numerals kata
